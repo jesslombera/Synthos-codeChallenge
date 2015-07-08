@@ -1,0 +1,10 @@
+{
+  "name": "synthos_code_challenge",
+  "version": "0.0.1",
+  "description": "Synthos Coding Challenge project",
+  "main": "index.html",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
